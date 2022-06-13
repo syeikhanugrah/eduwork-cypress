@@ -8,6 +8,7 @@
  * 3. Step
  * 4. Actual result: hasil yang didapat
  * 5. Expected result: hasil yang diinginkan
+ * 6. Status: PASS/FAIL
  *
  */
 
